@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{DCDEA0DB-B1BB-4F82-AFEE-45268025E5DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FazJogu", "FazJogu\FazJogu.vcxproj", "{B9192AD6-3F21-431D-A923-6324FF1D9D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9192AD6-3F21-431D-A923-6324FF1D9D27}.Debug|x64.ActiveCfg = Debug|x64
+		{B9192AD6-3F21-431D-A923-6324FF1D9D27}.Debug|x64.Build.0 = Debug|x64
+		{B9192AD6-3F21-431D-A923-6324FF1D9D27}.Release|x64.ActiveCfg = Release|x64
+		{B9192AD6-3F21-431D-A923-6324FF1D9D27}.Release|x64.Build.0 = Release|x64
+		{DCDEA0DB-B1BB-4F82-AFEE-45268025E5DF}.Debug|x64.ActiveCfg = Debug|x64
+		{DCDEA0DB-B1BB-4F82-AFEE-45268025E5DF}.Debug|x64.Build.0 = Debug|x64
+		{DCDEA0DB-B1BB-4F82-AFEE-45268025E5DF}.Release|x64.ActiveCfg = Release|x64
+		{DCDEA0DB-B1BB-4F82-AFEE-45268025E5DF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6FF72A0-689F-4F9E-955E-3BDDB8FB08EA}
+	EndGlobalSection
+EndGlobal
