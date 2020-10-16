@@ -1,2 +1,2 @@
-# faz-jogu
-faz jogu engine
+# FazJogu
+FazJogu engine
